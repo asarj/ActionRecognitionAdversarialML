@@ -131,3 +131,5 @@ dmypy.json
 # Project Specific
 /test/
 /val/
+/train/
+/slowfast/runs-kinetics/
